@@ -1,0 +1,15 @@
+{
+  "name": "finalproject",
+  "version": "1.0.0",
+  "description": "Bootstrap project",
+  "main": "project.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anton Antonov",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "4.4.1",
+    "jquery": "^3.5.0"
+  }
+}
