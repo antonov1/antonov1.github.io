@@ -1,2 +1,2 @@
 # antonov1.github.io
- Several HTML school projects
+ Here you can find quite a few HTML projects that I made during the last school year.
