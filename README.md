@@ -1,2 +1,2 @@
 # Web designs
- Here you can find quite a few HTML projects that I made during the last school year.
+ Here you can find a few HTML projects that I made during the last school year.
